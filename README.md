@@ -2,5 +2,5 @@
 Several examples of useful things in PHP
 
 Simple Login
-login.php
-logout.php
+- login.php
+- logout.php
