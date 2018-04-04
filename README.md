@@ -10,6 +10,7 @@ Google Charts (Taken from https://www.phpclasses.org)
 - gcharts.php
 - gchartexample.php
 - gchartexample1.php
+- gchartexample2.php
 
 Simple Report Generator Class (Taken from https://www.phpclasses.org)
 
